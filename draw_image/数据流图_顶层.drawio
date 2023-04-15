@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T08:13:08.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4Dnnk5h2G-B5t9rLK1bP" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T13:21:32.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Tf4eiogP0TTNWmzLFcyy" version="21.1.5" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="1058" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
           <mxGeometry x="870" y="245" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GkwFFELm4VW82PM_lDo3-53" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;token&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="385" width="110" height="30" as="geometry" />
+          <mxGeometry x="785" y="379" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GkwFFELm4VW82PM_lDo3-54" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;患者信息&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="245" width="110" height="30" as="geometry" />
